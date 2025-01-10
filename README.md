@@ -9,7 +9,7 @@
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/SimoneMayers">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;AI%20and%20DevOps%20Enthusiast;Continuous%20Learner&center=true&width=440&height=45&color=3498db&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Machine%20Learning%20Engineer;AI%20and%20DevOps%20Enthusiast;Continuous%20Learner&center=true&width=440&height=45&color=3498db&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
