@@ -18,7 +18,7 @@
 ### About Me
 
 - 🎓 Master’s in Computer Science at **East Carolina University**
-- 💼 **Courseware Developer** with 10 months experience aligning tech solutions to FAA standards
+- 💼 **Courseware Developer** with 1+ year experience aligning tech solutions in the EdTech sector
 - 🌍 Exploring the intersection of **AI** and **Cloud DevOps**
 - ✈️ Former Flight Attendant with a passion for travel and creating impact through tech
 
