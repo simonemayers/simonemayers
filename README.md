@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Simone! 👋</h1>
 
 <p align="center">
-    <i>Software Engineer | AI Explorer | Lifelong Learner</i>
+    <i>Computer Scientist | AI Explorer | Lifelong Learner</i>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ### About Me
 
-- 🎓 Master’s in Software Engineering at **East Carolina University**
+- 🎓 Master’s in Computer Science at **East Carolina University**
 - 💼 **Courseware Developer** with 10 months experience aligning tech solutions to FAA standards
 - 🌍 Exploring the intersection of **AI** and **Cloud DevOps**
 - ✈️ Former Flight Attendant with a passion for travel and creating impact through tech
