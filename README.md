@@ -18,7 +18,7 @@
 ### About Me
 
 - 🎓 Master’s in Computer Science at **East Carolina University**
-- 💼 **Courseware Developer** with 1+ year experience aligning tech solutions in the EdTech sector
+- 💼 **Courseware Developer** with 3+ year experience aligning tech solutions in the EdTech sector
 - 🌍 Exploring the intersection of **AI** and **Cloud DevOps**
 - ✈️ Former Flight Attendant with a passion for travel and creating impact through tech
 
@@ -41,8 +41,8 @@
 
 ### Featured Projects
 
-- 🏠 **[Airbnb Clone](https://github.com/SimoneMayers/Airbnb-Clone)** - Full-stack app mimicking core Airbnb features
 - 💳 **[Credit Card Fraud Detection](https://github.com/SimoneMayers/Credit-Card-Fraud-Detection)** - Machine learning project using Random Forest to detect fraudulent transactions
+- **[SMS Spam Detection](https://github.com/simonemayers/sms-spam-detection)** - Machine learning project using python to detect sms spam messages.
 - 🍽️ **Restaurant Reservation System** - Team project focused on restaurant management with MVC design
 
 ---
